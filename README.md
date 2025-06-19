@@ -131,7 +131,7 @@ Please ensure you:
 
 - Powered by [Playwright](https://playwright.dev/)
 - File system tasks by [fs-extra](https://github.com/jprichardson/node-fs-extra)
-- Built by developers for developers
+- Built by Kingsley for developers
 
 ---
 
