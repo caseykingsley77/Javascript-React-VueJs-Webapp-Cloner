@@ -1,0 +1,9 @@
+# Ignore folders
+node_modules/
+offline-app/
+offline-site/
+test-results/
+
+# Ignore all .zip and .png files
+*.zip
+
